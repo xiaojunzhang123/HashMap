@@ -1,0 +1,3 @@
+include ':HashMap'
+include ':app'
+rootProject.name = "MyHashMap"
